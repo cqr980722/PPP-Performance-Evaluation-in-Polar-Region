@@ -1,2 +1,2 @@
 # PPP-Performance-Evaluation-in-Polar-Region
-These MATLAB code can realize the loop call to Netdiff, so as to achieve batch solution.  
+The purpose of these Matlab codes is to calculate the PPP (Precise Point Positioning) results of various stations around the world, analyze the results, and draw the analysis chart.  
